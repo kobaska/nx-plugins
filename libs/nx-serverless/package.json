@@ -1,5 +1,5 @@
 {
-  "name": "@flowaccount/nx-serverless",
+  "name": "@clipboard-ems/nx-serverless",
   "version": "0.5.1",
   "main": "src/index.js",
   "description": "Serverless schematics for nx workspace",
@@ -38,7 +38,7 @@
     "webpack-dev-server": "3.9.0",
     "webpack-node-externals": "1.7.2",
     "depcheck": "0.9.2",
-    "serverless": "^1.66.0",
+    "@clipboard-ems/serverless": "2.19.0",
     "is-builtin-module": "^3.0.0",
     "ignore": "5.0.4"
   },
